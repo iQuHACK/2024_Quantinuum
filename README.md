@@ -1,10 +1,10 @@
-# 2024_planning_quantinuum
-Quantinuum repository for iQuHACK 2024 (private planning)
+# 2024_quantinuum
+Quantinuum repository for iQuHACK 2024
 
 ![Quantinuum Logo__horizontal black](https://github.com/iQuHACK/2024_planning_quantinuum/assets/106914305/44e677cf-8523-4157-a248-89968215ee34)
 
 ## Useful Links to get you started with TKET are:
- - [pytket User manual](https://tket.quantinuum.com/user-manual/)
+ - [pytket user manual](https://tket.quantinuum.com/user-manual/)
  - [pytket API docs](https://tket.quantinuum.com/api-docs/)
  - [pytket Notebook Examples](https://tket.quantinuum.com/examples/Getting_started.html)
 
