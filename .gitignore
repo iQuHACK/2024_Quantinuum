@@ -1,0 +1,4 @@
+.venv
+.DS_STORE
+.ipynb_checkpoints
+tket_intro.ipynb
