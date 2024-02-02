@@ -1,4 +1,7 @@
 .venv
 .DS_STORE
 .ipynb_checkpoints
+*.qasm
 tket_intro.ipynb
+plotting.py
+__pycache__
