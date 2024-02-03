@@ -40,7 +40,7 @@ Quantum Phase Estimation (QPE) is an important subroutine in many quantum algori
 
     * In section 3.3 the paper also proposes using parallel controlled rotations. Implement the proposed decomposition for the controlled $e^{- i \theta Z}$ rotation gates and compare the circuit size and depth to the compiled circuit produced by TKET.
   
-## Resources for background Phase estimnation
+## Resources for background on Phase estimnation
 
 * [Online notebook](https://tket.quantinuum.com/examples/phase_estimation.html) - Perhaps easier to read than the version in this repository
 * [Stack exchange post](https://quantumcomputing.stackexchange.com/questions/32594/how-would-you-draw-the-phase-estimation-circuit-for-the-eigenvalues-of-u-mat/32598#32598) explaining the phase estimation circuit.
