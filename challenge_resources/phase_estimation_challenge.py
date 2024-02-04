@@ -115,6 +115,11 @@ backend = NexusBackend(
     project= phase_est_project
 )
 
+# PATCH 
+# decompose any Boxes in the circuit (acts in place on the circuit object)
+from pytket.passes import DecomposeBoxes
+DecomposeBoxes().apply(qpe_circ_trivial)
+
 compiled_circ = backend.get_compiled_circuit(qpe_circ_trivial)
 
 
